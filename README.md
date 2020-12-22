@@ -184,4 +184,4 @@ func main()  {
 
 ## License
 
-[MIT](https://github.com/gongwenlong/dayanta/master/LICENSE)
+[MIT](https://github.com/gongwenlong/dayanta/blob/master/LICENSE)
